@@ -1,0 +1,16 @@
+{
+    "database":{
+        "user": "your username here",
+        "password": "password",
+        "host": "localhost",
+        "database": "weatherapp",
+        "port": 5432
+    },
+    
+    "api":{
+        "api_key": "Your api key here",
+        "api_url": "https://api.openweathermap.org/data/2.5/weather?"
+    },
+
+    "city_name": "Enter city name of your choice"
+}
